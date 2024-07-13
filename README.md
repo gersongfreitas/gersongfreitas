@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gerson!
 - 🧮 I'm pursuing my Computer Science degree at UFPB
 - 🌱 I’m currently learning C and Python
-- 📫 How to reach me: send an e-mail!
+- 📫 How to reach me: Send me an e-mail!
 - 😄 Pronouns: he/him
 
 <!---
