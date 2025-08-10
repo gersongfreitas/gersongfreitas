@@ -30,11 +30,6 @@
   <img src="https://streak-stats.demolab.com?user=gersongfreitas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/gersongfreitas/gersongfreitas/output/snake.svg" alt="Snake animation" />
-
-###
 <!---
 gersongfreitas/gersongfreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
